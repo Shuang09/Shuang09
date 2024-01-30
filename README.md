@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Susan Shuhang Yan! 🦆
 
-<!--
-**Shuang09/Shuang09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Java developer exploring the realms of web development with a focus on React JS, Next JS, and Django framework. My interest lies in the fascinating field of human-computer interaction.
 
-Here are some ideas to get you started:
+## 🔗 Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my portfolio at [oh-susan.com](https://oh-susan.com) to see some of my projects and art work!
+
+## 📫 Get in touch
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/susan-shuhang-yan/) or visit my [personal website](https://oh-susan.com) for more information.
+
+Let's code and create amazing things together! 😄
